@@ -1,0 +1,16 @@
+# prediction output
+predictions.csv
+*.predictions.csv
+sgnex.json
+
+# python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
